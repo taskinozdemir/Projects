@@ -1,6 +1,5 @@
 # Mars Rover Project
 
-Part 1
 A squad of robotic rovers are to be landed by NASA on a plateau on Mars. This plateau, which is
 curiously rectangular, must be navigated by the rovers so that their on board cameras can get a
 complete view of the surrounding terrain to send back to Earth.
@@ -35,6 +34,7 @@ Test Input:
 LMLMLMLMM
 3 3 E
 MMRMMRMRRM
+
 Expected Output:
 1 3 N
 5 1 E
