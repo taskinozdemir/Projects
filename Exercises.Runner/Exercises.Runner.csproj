@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Exercises.Runner</AssemblyName>
+    <RootNamespace>Exercises.Runner</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exercises.MarsRover\Exercises.MarsRover.csproj" />
+  </ItemGroup>
+
+</Project>

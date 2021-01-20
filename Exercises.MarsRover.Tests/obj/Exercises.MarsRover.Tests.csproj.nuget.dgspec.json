@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\Exercises.MarsRover.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.Core\\Exercises.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.Core\\Exercises.Core.csproj",
+        "projectName": "Exercises.Core",
+        "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.Core\\Exercises.Core.csproj",
+        "packagesPath": "C:\\Users\\TASKINO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TASKINO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\Exercises.MarsRover.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\Exercises.MarsRover.Tests.csproj",
+        "projectName": "Exercises.MarsRover.Tests",
+        "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\Exercises.MarsRover.Tests.csproj",
+        "packagesPath": "C:\\Users\\TASKINO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TASKINO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj": {
+                "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.console": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj",
+        "projectName": "Exercises.MarsRover",
+        "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj",
+        "packagesPath": "C:\\Users\\TASKINO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TASKINO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.Core\\Exercises.Core.csproj": {
+                "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.Core\\Exercises.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
