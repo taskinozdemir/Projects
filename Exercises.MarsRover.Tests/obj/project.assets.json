@@ -5572,34 +5572,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\TASKINO\\.nuget\\packages\\": {}
+    "/Users/taskinozdemir/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\Exercises.MarsRover.Tests.csproj",
+      "projectUniqueName": "/Users/taskinozdemir/Projects/Projects/Exercises.MarsRover.Tests/Exercises.MarsRover.Tests.csproj",
       "projectName": "Exercises.MarsRover.Tests",
-      "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\Exercises.MarsRover.Tests.csproj",
-      "packagesPath": "C:\\Users\\TASKINO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover.Tests\\obj\\",
+      "projectPath": "/Users/taskinozdemir/Projects/Projects/Exercises.MarsRover.Tests/Exercises.MarsRover.Tests.csproj",
+      "packagesPath": "/Users/taskinozdemir/.nuget/packages/",
+      "outputPath": "/Users/taskinozdemir/Projects/Projects/Exercises.MarsRover.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\TASKINO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/taskinozdemir/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj": {
-              "projectPath": "C:\\Users\\TASKINO\\source\\repos\\Exercises\\Exercises.MarsRover\\Exercises.MarsRover.csproj"
+            "/Users/taskinozdemir/Projects/Projects/Exercises.MarsRover/Exercises.MarsRover.csproj": {
+              "projectPath": "/Users/taskinozdemir/Projects/Projects/Exercises.MarsRover/Exercises.MarsRover.csproj"
             }
           }
         }
@@ -5654,7 +5652,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }
